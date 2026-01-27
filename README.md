@@ -1,25 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1F2544,474F7A&height=280&section=header&text=Rohan%20Kumar&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Architecting%20Intelligence%20with%20LLMs%20%26%20AI%20Agents&descSize=20&descColor=ffffff&descAlign=50&descAlignY=62&animation=twinkling" width="100%" alt="Hero Banner" />
-</div>
-<div align="center">
 
-  <br/>
-  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Hero GIF" />
+
+  <h1 style="font-size: 50px; font-weight: bold; margin-top: 20px;">Hi, I'm Rohan Kumar! 👋</h1>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=LLM+Engineer+%7C+RAG+Specialist;Building+Autonomous+AI+Agents;Crafting+Hyperlocal+B2B+Platforms;Python+%7C+FastAPI+%7C+React+%7C+AWS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=LLM+Engineer+%7C+RAG+Specialist;Building+Autonomous+AI+Agents;Crafting+Hyperlocal+B2B+Platforms;Python+%7C+FastAPI+%7C+React+%7C+AWS" alt="Typing SVG" />
   </a>
 
+  <br/>
+
   <p>
-    <em>Computer Science Engineer turning data into intelligence. <br/> Specialized in Generative AI, Conversational Agents, and Scalable Backend Systems.</em>
+    <code>Computer Science Engineer turning data into intelligence.</code>
+    <br/>
+    <em>Specialized in Generative AI, Conversational Agents, and Scalable Backend Systems.</em>
   </p>
 
   <p>
     <a href="https://www.linkedin.com/in/rohan-kumar-7ba89930b" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    &nbsp;&nbsp;
     <a href="mailto:rohandas6555@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
+    &nbsp;&nbsp;
     <a href="https://www.instagram.com/im_rohan_kr" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
