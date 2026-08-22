@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./dino-banner.svg" width="100%" alt="Rohan Kumar - GenAI / Agentic AI Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,100:8A8D91&height=200&section=header&text=Rohan%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%2F%20Agentic%20AI%20Developer&descAlignY=58&descSize=18" width="100%" alt="Rohan Kumar Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=8A8D91&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+Building+AI+Agents+%26+RAG+Applications;%E2%9A%A1+Automating+Workflows+with+LangChain+%26+OpenAI;%F0%9F%9A%80+Turning+Ideas+into+Intelligent+Systems;%F0%9F%92%A1+Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=8A8D91&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+Building+AI+Agents+%26+RAG+Applications;%E2%9A%A1+Automating+Workflows+with+LangChain+%26+OpenAI;%F0%9F%9A%80+Turning+Ideas+into+Intelligent+Systems;%F0%9F%92%A1+Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
@@ -16,7 +16,10 @@
   <a href="mailto:rohandas6555@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=3a3b3e&label=PROFILE+VIEWS" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=3a3b3e&label=PROFILE+VIEWS" />
 </p>
 
 <br/>
