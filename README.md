@@ -92,5 +92,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile views" />
 </p>
+<div align="center">
+
+<br/>
 
 <p align="center"><i>Thanks for visiting my profile! Feel free to connect 🤝</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A8D91,100:1c1c1c&height=150&section=footer&text=Let's%20Build%20Something%20Great&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer Banner"/>
+
+</div>
