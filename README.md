@@ -1,95 +1,93 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Hero GIF" />
+<img src="./dino-banner.svg" width="100%" alt="Rohan Kumar - GenAI / Agentic AI Developer"/>
 
-  <h1 style="font-size: 50px; font-weight: bold; margin-top: 20px;">Hi, I'm Rohan Kumar! 👋</h1>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=LLM+Engineer+%7C+RAG+Specialist;Building+Autonomous+AI+Agents;Crafting+Hyperlocal+B2B+Platforms;Python+%7C+FastAPI+%7C+React+%7C+AWS" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <p>
-    <code>Computer Science Engineer turning data into intelligence.</code>
-    <br/>
-    <em>Specialized in Generative AI, Conversational Agents, and Scalable Backend Systems.</em>
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/rohan-kumar-7ba89930b" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:rohandas6555@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/im_rohan_kr" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-  </p>
-  
-</div>
-
----
-
-### ⚡ Technical Arsenal
-
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **🤖 Generative AI** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) |
-| **⚙️ Backend & Core** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![REST](https://img.shields.io/badge/-REST_API-005571?style=flat&logo=postman&logoColor=white) |
-| **💻 Full Stack** | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **🗄️ Data** | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
-
----
-
-### 🔭 Selected Projects
-
-#### **🚀 Enterprise & Platforms**
-> **India's First Hyperlocal FMCG B2B Platform**
-> * A complex platform connecting manufacturers and retailers via PIN-code discovery.
-> * **Tech:** React, Node.js, Geolocation APIs, MongoDB.
-
-> **Modern B2B & B2C E-Commerce Engine**
-> * High-performance, scalable online store architecture designed for high traffic.
-> * **Tech:** MERN Stack, Payment Gateways, Analytics.
-
-#### **🧠 AI & RAG Systems**
-> **CodeMate (DSA Instructor)**
-> * An intelligent chatbot that teaches Data Structures & Algorithms interactively.
-> * **Tech:** LangChain, Python, Vector DBs.
-
-> **RAG-PROJECTS**
-> * Custom implementation of Retrieval-Augmented Generation for specialized domain knowledge.
-> * **Tech:** OpenAI API, Embeddings, ChromaDB.
-
----
-
-### 📊 Engineering Metrics
-
-<div align="center">
-  <a href="https://github.com/rohandas6555-ship-it">
-    <img src="https://github-readme-stats.vercel.app/api?username=rohandas6555-ship-it&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
-  </a>
-  <a href="https://github.com/rohandas6555-ship-it">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohandas6555-ship-it&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h3>🏆 Certifications</h3>
-  <img src="https://img.shields.io/badge/Google-Gemini%20Certified%20Student-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Certified" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-Generative%20AI-FFD21E?style=for-the-badge&logo=google-cloud&logoColor=black" alt="GenAI" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=8A8D91&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+Building+AI+Agents+%26+RAG+Applications;%E2%9A%A1+Automating+Workflows+with+LangChain+%26+OpenAI;%F0%9F%9A%80+Turning+Ideas+into+Intelligent+Systems;%F0%9F%92%A1+Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-  <b><i>Building the future with Artificial Intelligence.</i></b>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=rohandas6555-ship-it&style=flat-square&color=22272e&label=PROFILE+VIEWS" alt="Profile Views" />
+<p>
+  <a href="https://www.linkedin.com/in/rohan-kumar-7ba89930b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/im_rohan_kr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:rohandas6555@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=3a3b3e&label=PROFILE+VIEWS" />
+</p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation"/>
+
 </div>
+
+---
+
+### 🚀 About Me
+
+- 🤖 I build **AI Agents, Chatbots & RAG Applications** using LangChain, Google ADK, and OpenAI API
+- ⚙️ I love automating workflows with **AI Workflow Automation**
+- 🌐 I build full-stack apps with **React** on the frontend and **FastAPI** on the backend
+- 🧠 I enjoy solving problems with **Data Structures & Algorithms**
+- 📫 Reach me at: **rohandas6555@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+**GenAI / Agentic AI**
+<p>
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RAG%20Applications-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/-AI%20Agents-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Chatbots-00A98F?style=flat-square" />
+</p>
+
+**Automation**
+<p>
+  <img src="https://img.shields.io/badge/-AI%20Workflow%20Automation-FF4B4B?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Workflow%20Automation-FF8C00?style=flat-square" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+<p align="center"><i>Thanks for visiting my profile! Feel free to connect 🤝</i></p>
