@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,100:8A8D91&height=200&section=header&text=Rohan%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%2F%20Agentic%20AI%20Developer&descAlignY=58&descSize=18" width="100%" alt="Rohan Kumar Banner"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="500"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=8A8D91&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+Building+AI+Agents+%26+RAG+Applications;%E2%9A%A1+Automating+Workflows+with+LangChain+%26+OpenAI;%F0%9F%9A%80+Turning+Ideas+into+Intelligent+Systems;%F0%9F%92%A1+Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
@@ -25,8 +24,6 @@
 </p>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation"/>
 
 </div>
 
@@ -91,9 +88,19 @@
 
 ---
 
+### 📊 GitHub Stats
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rohandas6555-ship-it&style=flat-square&color=blue" alt="Profile views" />
+  <img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=rohandas6555-ship-it&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=rohandas6555-ship-it&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rohandas6555-ship-it&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 <div align="center">
 
 <br/>
