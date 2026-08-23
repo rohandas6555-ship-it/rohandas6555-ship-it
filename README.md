@@ -88,19 +88,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohandas6555-ship-it&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohandas6555-ship-it&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rohandas6555-ship-it&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <div align="center">
 
 <br/>
